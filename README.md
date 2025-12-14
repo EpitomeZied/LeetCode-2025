@@ -68,6 +68,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -111,6 +112,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2317-count-collisions-on-a-road](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2317-count-collisions-on-a-road) |
 | [2429-design-a-food-rating-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2429-design-a-food-rating-system) |
 | [2727-number-of-senior-citizens](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2727-number-of-senior-citizens) |
@@ -236,6 +238,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
