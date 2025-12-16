@@ -214,6 +214,7 @@
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3885-count-special-triplets) |
@@ -244,6 +245,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -370,6 +372,7 @@
 | [0854-making-a-large-island](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0854-making-a-large-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -574,6 +577,7 @@
 |  |
 | ------- |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Geometry
 |  |
 | ------- |
