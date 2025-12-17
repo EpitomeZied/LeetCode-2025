@@ -219,6 +219,7 @@
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3934-coupon-code-validator) |
 | [4022-minimum-operations-to-equalize-subarrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4022-minimum-operations-to-equalize-subarrays) |
@@ -246,6 +247,7 @@
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Two Pointers
 |  |
 | ------- |
