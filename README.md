@@ -222,6 +222,7 @@
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3934-coupon-code-validator) |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4022-minimum-operations-to-equalize-subarrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4022-minimum-operations-to-equalize-subarrays) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
@@ -423,6 +424,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Counting
 |  |
 | ------- |
@@ -481,6 +483,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Enumeration
 |  |
 | ------- |
