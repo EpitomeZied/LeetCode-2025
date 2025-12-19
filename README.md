@@ -281,6 +281,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1388-greatest-sum-divisible-by-three) |
+| [2213-find-all-people-with-secret](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2213-find-all-people-with-secret) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -322,6 +323,7 @@
 | [0820-find-eventual-safe-states](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0854-making-a-large-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2213-find-all-people-with-secret](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
@@ -374,6 +376,7 @@
 | [0820-find-eventual-safe-states](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0854-making-a-large-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2213-find-all-people-with-secret](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2213-find-all-people-with-secret) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
@@ -402,6 +405,7 @@
 | [0684-redundant-connection](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0854-making-a-large-island) |
+| [2213-find-all-people-with-secret](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
@@ -515,6 +519,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0820-find-eventual-safe-states) |
+| [2213-find-all-people-with-secret](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
