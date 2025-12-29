@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0389-find-the-difference) |
+| [0757-pyramid-transition-matrix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0757-pyramid-transition-matrix) |
 | [0952-word-subsets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0952-word-subsets) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -101,6 +102,7 @@
 | [0389-find-the-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0474-ones-and-zeroes) |
+| [0757-pyramid-transition-matrix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0757-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0952-word-subsets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0981-delete-columns-to-make-sorted) |
@@ -472,6 +474,7 @@
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0389-find-the-difference) |
+| [0757-pyramid-transition-matrix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0757-pyramid-transition-matrix) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -539,6 +542,7 @@
 |  |
 | ------- |
 | [0679-24-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0679-24-game) |
+| [0757-pyramid-transition-matrix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0757-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Graph
 |  |
