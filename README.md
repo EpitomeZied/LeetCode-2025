@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0389-find-the-difference) |
 | [0757-pyramid-transition-matrix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0757-pyramid-transition-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0870-magic-squares-in-grid) |
 | [0952-word-subsets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0952-word-subsets) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -60,6 +61,7 @@
 | [0670-maximum-swap](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0867-new-21-game) |
+| [0870-magic-squares-in-grid](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -163,6 +165,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0854-making-a-large-island) |
+| [0870-magic-squares-in-grid](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0870-magic-squares-in-grid) |
 | [0952-word-subsets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0954-maximum-sum-circular-subarray) |
 | [0981-delete-columns-to-make-sorted](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0981-delete-columns-to-make-sorted) |
@@ -364,6 +367,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0854-making-a-large-island) |
+| [0870-magic-squares-in-grid](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0870-magic-squares-in-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2244-number-of-laser-beams-in-a-bank) |
