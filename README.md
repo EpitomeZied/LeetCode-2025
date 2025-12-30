@@ -540,6 +540,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
@@ -611,6 +612,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0908-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
