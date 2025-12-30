@@ -401,6 +401,7 @@
 | [0386-lexicographical-numbers](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0684-redundant-connection) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0854-making-a-large-island) |
@@ -502,6 +503,7 @@
 | [0020-valid-parentheses](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0071-simplify-path) |
 | [0682-baseball-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0682-baseball-game) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1552-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -620,6 +622,7 @@
 ## Tree
 |  |
 | ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Geometry
